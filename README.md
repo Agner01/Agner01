@@ -1,6 +1,6 @@
 ## Olá! Eu sou Agner Felix👋
 
-- 🌱 Estudando CSS3, JavaScript e Csharp
+- 🌱 Estudando CSS3, JavaScript e C#
 
 <div 
   align="center">
